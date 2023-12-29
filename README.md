@@ -1,6 +1,6 @@
 # Daily Journal
 
-Daily Journal is a visually appealing blogging website which is made by implementing responsive design
+Daily Journal is a visually appealing blogging website that is made by implementing responsive design
 principles for ensuring seamless user experience across different ranges of devices and screen sizes.
 ## Tech Stack
 
@@ -37,15 +37,15 @@ Start the server
 ```
 
   
-# Features
+# Project Overview
 
-### List
-![](https://github.com/Ajeetesh2003/To-Do-List/blob/master/screenshots/list.png)
-### Deletes items from the list (for a clean look)
-![](https://github.com/Ajeetesh2003/To-Do-List/blob/master/screenshots/beforedelete.png)
-![](https://github.com/Ajeetesh2003/To-Do-List/blob/master/screenshots/afterdelete.png)
-### Create any Custom list
-![](https://github.com/Ajeetesh2003/To-Do-List/blob/master/screenshots/customlist.png)
+### Home Page
+![](https://github.com/Ajeetesh2003/Daily-Journal-Blog-Website-/blob/master/screenshots/blogsite.png)
+### Compose Blogs
+![](https://github.com/Ajeetesh2003/Daily-Journal-Blog-Website-/blob/master/screenshots/compose.png)
+### Read full blogs separately
+![](https://github.com/Ajeetesh2003/Daily-Journal-Blog-Website-/blob/master/screenshots/readmore.png)
+![](https://github.com/Ajeetesh2003/Daily-Journal-Blog-Website-/blob/master/screenshots/readmore1.png)
 
 # Author Information
 
